@@ -1,0 +1,6 @@
+{
+  "name": "LOOPA",
+  "description": "Página web oficial de LOOPA, aplicación de modelado 3D en el navegador. Presentación de características, galería de modelos y acceso a la demo pública.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
